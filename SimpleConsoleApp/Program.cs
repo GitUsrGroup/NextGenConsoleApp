@@ -10,7 +10,8 @@ namespace SimpleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is a simple Console Application");
+            Console.WriteLine("This is a simple Console Application 2");
+            Console.WriteLine("Ending Program");
         }
     }
 }
